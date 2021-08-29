@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ctc1211
+- 👀 I’m interested in learning code
+- 🌱 I’m currently learning java
